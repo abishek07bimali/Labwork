@@ -15,4 +15,4 @@ for i in range(3):
     else:
         print("Invalid usernames")
 else:
-    print("enter")
+    print("Re-enter username")

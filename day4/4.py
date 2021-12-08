@@ -7,8 +7,8 @@ INPUT: -1        OUTPUT: 1
 
 '''
 A= int(input("Enter the First integer: ")) 
-print(A)
+print(abs(A))
 B= int(input("Enter the Second integer: "))  
-print(B)
+print(abs(B))
 C= int(input("Enter the Third integer: "))  
-print(C)
+print(abs(C))

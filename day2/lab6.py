@@ -21,4 +21,4 @@ print(f"The total time require to reach school by waking is {totaltime_walk} min
 if Actual_time>totaltime_walk:
     print(f"Walking is faster then travelling by bus.")
 else:
-    print(f"Travelling by base is fater then walking.")
+    print(f"Travelling by bus is faster then walking.")
